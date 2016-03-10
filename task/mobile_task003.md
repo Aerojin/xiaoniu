@@ -4,11 +4,11 @@
 
 实现一个在移动端浏览器访问的个人记账软件
 
-![示例图](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_summer/asset/mob_yangfan_task1_01.png)
+![示例图](img/mob_yangfan_task1_01.png)
 
-![示例图](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_summer/asset/mob_yangfan_task1_02.png)
+![示例图](img/mob_yangfan_task1_02.png)
 
-![示例图](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_summer/asset/mob_yangfan_task1_03.png)
+![示例图](img/mob_yangfan_task1_03.png)
 
 以上图仅作参考，大家可以随意按照自己的喜欢进行界面设计。
 
@@ -20,11 +20,6 @@
 * 支持不同类型的账目记录
 * 数据存储可以使用localStorage，可以不需要Server
 * 如果需要使用Server端，不限制语言，但推荐nodejs，Server端框架使用不限制
-
-## 学习资料
-
-* [春季班学习资料](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0001)
-* [春季班学习资料](https://github.com/baidu-ife/ife/tree/master/2015_spring/task/task0002)
 
 ### 移动
 

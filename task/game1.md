@@ -4,16 +4,15 @@
 
 实现一个简单的网页游戏，玩家可以在网页上通过点击，选择要出的是石头、剪刀或是布，电脑也会随机出一个，然后判断胜负，并记录获胜总次数。
 
-![示例图1](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_summer/asset/game_qihang_task1_01.jpg)
+![示例图1](img/game_qihang_task1_01.jpg)
 
-![示例图2](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_summer/asset/game_qihang_task1_02.jpg)
+![示例图2](img/game_qihang_task1_02.jpg)
 
 以上两图仅作参考，大家可以随意按照自己的喜欢进行游戏界面设计。
 
 ## 任务要求：
 
 * 个人完成，团队内部交流，互相评价代码
-
 
 ## 学习资料
 
