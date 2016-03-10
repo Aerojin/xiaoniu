@@ -36,7 +36,7 @@
 
 最后的效果如下图：
 
-![图片](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_spring/task/task0001/img/task0001_1.jpg)
+![图片](https://github.com/baidu-ife/ife/raw/master/2015_spring/task/task0001/img/task0001_1.jpg)
 
 ### 1.2 期望达成
 
