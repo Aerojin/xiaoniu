@@ -646,7 +646,7 @@ var suggestData = ['Simon', 'Erik', 'Kener'];
 
 示例：
 
-![示例]https://github.com/baidu-ife/ife/raw/master/2015_spring/task/task0002/img/task0002_sug.png)
+![示例](img/task0002_sug.png)
 
 ## 小练习5：界面拖拽交互
 
@@ -657,4 +657,4 @@ var suggestData = ['Simon', 'Erik', 'Kener'];
 - 拖拽到什么位置认为是可以添加到新容器的规则自己定
 - 注意交互中良好的用户体验和使用引导
 
-![示例](https://github.com/baidu-ife/ife/raw/master/2015_spring/task/task0002/img/task0002_drag.png)
+![示例](img/task0002_drag.png)

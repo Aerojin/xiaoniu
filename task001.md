@@ -36,7 +36,7 @@
 
 最后的效果如下图：
 
-![图片](https://github.com/baidu-ife/ife/raw/master/2015_spring/task/task0001/img/task0001_1.jpg)
+![图片](img/task0001_1.jpg)
 
 ### 1.2 期望达成
 
@@ -67,7 +67,7 @@
 
 效果如下图：
 
-![图片](https://github.com/baidu-ife/ife/raw/master/2015_spring/task/task0001/img/task0001_2.jpg)
+![图片](img/task0001_2.jpg)
 
 ### 2.2 期望达成
 
@@ -162,10 +162,10 @@
 在`task0001.html`中，实践以下内容：
 
 - 用两种方法来实现一个背景色为`红色`、宽度为`960px`的`<DIV>`在浏览器中居中
-- 有的圆角矩形是复杂图案，无法直接用border-radius，请在不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形 ![示例](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_spring/task/task0001/img/task0001_7.png)
-- 用两种不同的方法来实现一个两列布局，其中左侧部分宽度固定、右侧部分宽度随浏览器宽度的变化而自适应变化 ![示例](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_spring/task/task0001/img/task0001_3.jpg)
+- 有的圆角矩形是复杂图案，无法直接用border-radius，请在不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形 ![示例](img/task0001_7.png)
+- 用两种不同的方法来实现一个两列布局，其中左侧部分宽度固定、右侧部分宽度随浏览器宽度的变化而自适应变化 ![示例](img/task0001_3.jpg)
 - 用两种不同的方式来实现一个三列布局，其中左侧和右侧的部分宽度固定，中间部分宽度随浏览器宽度的变化而自适应变化
-- 实现一个浮动布局，红色容器中每一行的蓝色容器数量随着浏览器宽度的变化而变化 ![示例1](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_spring/task/task0001/img/task0001_4.jpg) ![示例2](https://raw.githubusercontent.com/baidu-ife/ife/master/2015_spring/task/task0001/img/task0001_5.jpg)
+- 实现一个浮动布局，红色容器中每一行的蓝色容器数量随着浏览器宽度的变化而变化 ![示例1](img/task0001_4.jpg) ![示例2](img/task0001_5.jpg)
 
 
 ### 6.2 期望达成
@@ -212,7 +212,7 @@
 
 这时，你的文件夹结构应该是这样的：
 
-![文件结构](https://github.com/baidu-ife/ife/raw/master/2015_spring/task/task0001/img/task0001_6.png)
+![文件结构](img/task0001_6.png)
 
 基于[设计稿](https://github.com/baidu-ife/ife/blob/master/2015_spring/task/task0001/design/)中的设计图及标志实现页面，里面的内容、图片、配色均可自定义。
 
